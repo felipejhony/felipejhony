@@ -1,8 +1,6 @@
 # 👩🏻‍💻 Felipe jhony
 
----
-
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologies
 
 <img 
     align="left" 
