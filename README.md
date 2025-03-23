@@ -1,4 +1,5 @@
 ## Felipe Jhony
+Desenvolvedor de software apaixonado por tecnologia, criação de soluções e aprendizado contínuo.
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-jhony-389866304) 
